@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.handle.AbstractHandle.drawRectangle" name="org.jhotdraw.draw.handle.AbstractHandle.drawRectangle">
+<area shape="rect" id="node1" title=" " alt="" coords="223,136,423,177"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a61ee18989e31e4b0e022a0b222ca1e39" title=" " alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle.html#a4e4f369102d0298800a22be5cda24fc5" title=" " alt="" coords="5,71,175,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_move_handle.html#a4c678109674ab88b7b5d2bfd71ce63a5" title=" " alt="" coords="5,136,175,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_null_handle.html#a282fcb3f3c5d93dcd4d23eabf49bd567" title=" " alt="" coords="5,201,175,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_text_overflow_handle.html#aba1159b74a27824b056e70d562dcc869" title=" " alt="" coords="5,267,175,308"/>
+</map>

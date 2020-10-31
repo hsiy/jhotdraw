@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.figure.ConnectionFigure.getEndConnector" name="org.jhotdraw.draw.figure.ConnectionFigure.getEndConnector">
+<area shape="rect" id="node1" title=" " alt="" coords="292,201,519,243"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#a4fc83f59a7c95142fe01a8b861810c9a" title=" " alt="" coords="17,5,233,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#a62276a3d2eb73a8064d80858c0cd6ef5" title=" " alt="" coords="14,71,235,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle.html#ae7b1528f23d0740bd13b13e90a9aa309" title=" " alt="" coords="5,136,244,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_end_handle.html#a9d3d2c59ea0f15d242974a6abe649208" title=" " alt="" coords="21,201,229,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1liner_1_1_curved_liner.html#afd189b91bc101d29e6c126fa943dd8e4" title=" " alt="" coords="47,267,202,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1liner_1_1_elbow_liner.html#a9db0519d7f1e060fcc85d7d8dca7b421" title=" " alt="" coords="47,332,202,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1liner_1_1_slanted_liner.html#a8937f4ffd6654b3e771cf779f4facc83" title=" " alt="" coords="47,397,202,439"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="org.jhotdraw.draw.tool.DnDTracker.mousePressed" name="org.jhotdraw.draw.tool.DnDTracker.mousePressed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,173,276"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a6708fe57a99375fba094e8836767b1cd" title=" " alt="" coords="235,5,409,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a9b630e6cdede34e337a92ae2303306fc" title=" " alt="" coords="235,71,409,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#afcfcc993a132556c5b29face1c202d97" title=" " alt="" coords="235,136,409,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="221,201,423,243"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ac53d2880e75caa8b2a85d8d46bbc4cbd" title=" " alt="" coords="235,267,409,308"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a1484060439df54351e2546d3ed250542" title=" " alt="" coords="235,332,409,373"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#af2c4b2e3b2afd21f401129ed2313b96a" title=" " alt="" coords="235,397,409,439"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a70ac88ee31faaee0cc20587ef58a9e02" title=" " alt="" coords="235,463,409,504"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="471,201,644,243"/>
+</map>

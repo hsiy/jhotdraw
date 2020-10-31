@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.handle.MoveHandle.trackEnd" name="org.jhotdraw.draw.handle.MoveHandle.trackEnd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,175,116"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a87b5611249c64456ba9246d68a36998b" title=" " alt="" coords="223,30,432,86"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ad8285d2c47049e037de326bceb34bf7b" title=" " alt="" coords="242,111,413,152"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing.html#a9314ac7ad0715d75781e79e26d05adf7" title=" " alt="" coords="480,5,675,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="491,71,664,112"/>
+</map>

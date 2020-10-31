@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.io.InputFormat" name="org.jhotdraw.draw.io.InputFormat">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,175,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_d_o_m_storable_input_output_format.html" title=" " alt="" coords="223,5,441,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_image_input_format.html" title=" " alt="" coords="244,71,420,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_serialization_input_output_format.html" title=" " alt="" coords="226,136,438,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_text_input_format.html" title=" " alt="" coords="249,201,415,243"/>
+</map>

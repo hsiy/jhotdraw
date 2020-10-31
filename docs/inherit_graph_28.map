@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,153,170"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_attribute_change_edit.html" title=" " alt="" coords="201,5,371,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_bezier_node_edit.html" title=" " alt="" coords="205,71,367,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_set_bounds_edit.html" title=" " alt="" coords="205,136,367,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_transform_edit.html" title=" " alt="" coords="205,201,367,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_transform_restore_edit.html" title=" " alt="" coords="205,267,367,308"/>
+</map>

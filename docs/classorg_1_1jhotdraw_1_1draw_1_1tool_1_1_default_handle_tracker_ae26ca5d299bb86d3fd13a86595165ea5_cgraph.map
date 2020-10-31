@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.tool.DefaultHandleTracker.clearHoverHandles" name="org.jhotdraw.draw.tool.DefaultHandleTracker.clearHoverHandles">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,221,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#acc5ceeff51689d5cdd6021e5121856d1" title=" " alt="" coords="269,104,496,145"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a73b64843cde54ddf6cef09461bd7e68d" title=" " alt="" coords="563,5,726,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a6bda1e36943b325f3a352526066e0dd2" title=" " alt="" coords="544,71,745,112"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a0b88082ad82db8e27e08c04530194379" title=" " alt="" coords="563,136,726,177"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a17d5059337b1e9eeab5c35fdf495b0d7" title=" " alt="" coords="563,201,726,243"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae579478195101b0576cb81774fa7b0a0" title=" " alt="" coords="807,39,981,80"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="793,104,995,145"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="1043,104,1216,145"/>
+</map>

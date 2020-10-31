@@ -1,0 +1,17 @@
+<map id="org.jhotdraw.draw.figure.Figure.isTransformable" name="org.jhotdraw.draw.figure.Figure.isTransformable">
+<area shape="rect" id="node1" title=" " alt="" coords="871,300,1033,341"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_resize_handle_kit.html#a051951eb9cfdc15e102892452df55002" title=" " alt="" coords="582,55,803,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_resize_handle_kit.html#a06217239af4f6c650a8d5638fcff83ae" title=" " alt="" coords="273,63,504,104"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html#ad0001520f5399ac77c09ffbb3ca6c654" title=" " alt="" coords="565,253,820,309"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html#ad1b568f83f5019b0972011f41cda149f" title=" " alt="" coords="277,213,500,269"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html#af5dfdfa76b8e732b0c86f4c8110a0b64" title=" " alt="" coords="280,373,497,429"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_resize_handle_kit.html#af5451e14b4488b634f65025705789708" title=" " alt="" coords="563,136,823,177"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html#a91adf290f23b906acf15d003a5182cfe" title=" " alt="" coords="569,333,816,389"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_rotate_handle.html#a9d5f24673eb052efb66ed28032190f1c" title=" " alt="" coords="581,464,804,505"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_move_handle.html#afcdf98d0140f94b266ee2206d63ef313" title=" " alt="" coords="608,529,777,571"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_move_handle.html#a123b2fa9d89212813c7218a19fa73812" title=" " alt="" coords="608,595,777,636"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_figure.html#a57150634d7a41308b705b0bf01a6a4bc" title=" " alt="" coords="13,63,207,104"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html#a3ae82031a20498c2842fe98d6417f110" title=" " alt="" coords="263,293,515,349"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure.html#a0cd690fde7806b0d5bb7ad7e67831cfb" title=" " alt="" coords="5,213,215,269"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a8fa41f3bf0826f558b90a80c8a5e9685" title=" " alt="" coords="19,380,201,421"/>
+</map>

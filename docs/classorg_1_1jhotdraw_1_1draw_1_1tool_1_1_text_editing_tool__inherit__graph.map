@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.tool.TextEditingTool" name="org.jhotdraw.draw.tool.TextEditingTool">
+<area shape="rect" id="node1" title=" " alt="" coords="143,229,321,271"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html" title=" " alt="" coords="25,155,250,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1tool_1_1_tool.html" title=" " alt="" coords="131,80,307,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="15,5,121,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="145,5,292,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="316,5,407,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="274,155,379,181"/>
+</map>

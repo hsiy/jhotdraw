@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.action.GroupAction.ungroupFigures" name="org.jhotdraw.draw.action.GroupAction.ungroupFigures">
+<area shape="rect" id="node1" title=" " alt="" coords="5,251,192,292"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a6708fe57a99375fba094e8836767b1cd" title=" " alt="" coords="263,5,436,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing.html#ae07f0a9ab950477417902c3ea2a86a30" title=" " alt="" coords="245,71,453,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_composite_figure.html#af48b30de985282f8d0f0df1b6b632e61" title=" " alt="" coords="241,137,457,193"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a9b630e6cdede34e337a92ae2303306fc" title=" " alt="" coords="263,217,436,259"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_composite_figure.html#ae6ef6253e2b4aad743dfabdf0e223c6b" title=" " alt="" coords="255,283,444,324"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="263,348,436,389"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_composite_figure.html#ac7ec97c8af68d1b6dbf76e6e2c41c5aa" title=" " alt="" coords="265,413,433,455"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing.html#a483dd1207b8a154e35db0322f55230d8" title=" " alt="" coords="240,479,459,506"/>
+</map>

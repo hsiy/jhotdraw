@@ -1,0 +1,5 @@
+<map id="org.jhotdraw.draw.handle.ConnectionStartHandle.canConnect" name="org.jhotdraw.draw.handle.ConnectionStartHandle.canConnect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,233,80"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_connection_figure.html#a78c136140be6a49b2132405d80730d61" title=" " alt="" coords="301,5,497,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle.html#ac9058fe83b783ff6ded8848bff70ef63" title=" " alt="" coords="281,71,516,112"/>
+</map>

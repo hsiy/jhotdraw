@@ -1,0 +1,15 @@
+<map id="org.jhotdraw.draw.DrawingEditor.setDefaultAttribute" name="org.jhotdraw.draw.DrawingEditor.setDefaultAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="581,319,755,361"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_attribute_action.html#a629f90fc1c170859c20c4c46c7a31dd8" title=" " alt="" coords="306,130,519,171"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_handler.html#a4a4a66184fa2a0c5cf8411b290fc1eaf" title=" " alt="" coords="300,232,525,288"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_handler.html#a9c41035cd8ac7835232ba949e4c5bc72" title=" " alt="" coords="296,312,529,368"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_pick_attributes_action.html#a201dd9b72c54ee879bd14d81e86a0de5" title=" " alt="" coords="300,393,525,434"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a41f93cbc82e3bb86ab93d7e1376439d9" title=" " alt="" coords="292,459,533,515"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_action.html#af701c2ee463927cb06ac668bfdcf3335" title=" " alt="" coords="13,5,236,61"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_editor_color_chooser_action.html#a3c90b4be7c46366cc66fdff2dd50df23" title=" " alt="" coords="19,85,230,141"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_attribute_action.html#a5da1b8e5a57b319fc0c641d2273acdb4" title=" " alt="" coords="21,166,228,207"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_handler.html#a31d50c0c5e638c5657410cd0b6d7dea6" title=" " alt="" coords="13,232,236,288"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_handler.html#a652b0a22047045583465661afe304458" title=" " alt="" coords="9,312,240,368"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_pick_attributes_action.html#ad5cc908fe00c32c6cd6b1150dfa8c7e5" title=" " alt="" coords="5,393,244,434"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler_1_1_event_handler.html#aa0655b7a2528e4a2bda91b07164d82da" title=" " alt="" coords="23,459,226,515"/>
+</map>

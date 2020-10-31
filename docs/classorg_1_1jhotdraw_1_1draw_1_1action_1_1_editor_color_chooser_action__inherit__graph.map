@@ -1,0 +1,9 @@
+<map id="org.jhotdraw.draw.action.EditorColorChooserAction" name="org.jhotdraw.draw.action.EditorColorChooserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="591,39,761,80"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_action.html" title=" " alt="" coords="813,5,996,47"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_action.html" title=" " alt="" coords="809,71,1000,112"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_attribute_action.html" title=" " alt="" coords="376,39,543,80"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html" title=" " alt="" coords="161,39,328,80"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,21,113,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="16,71,103,98"/>
+</map>

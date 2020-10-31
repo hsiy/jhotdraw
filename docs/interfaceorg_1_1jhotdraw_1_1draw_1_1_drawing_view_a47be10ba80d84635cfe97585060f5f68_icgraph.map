@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.DrawingView.getDrawingToViewTransform" name="org.jhotdraw.draw.DrawingView.getDrawingToViewTransform">
+<area shape="rect" id="node1" title=" " alt="" coords="301,201,519,243"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bounds_outline_handle.html#abb30f6af31f76377cecc3208c25d0625" title=" " alt="" coords="6,5,253,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle.html#ae6706ae34ce8e1c55c1e5a76e243d1ae" title=" " alt="" coords="26,71,233,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_outline_handle.html#a6f77c05cb500e5014226db652f04a03a" title=" " alt="" coords="44,136,215,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bounds_outline_handle.html#a90cd59badff8c84adf6d2bf1ed9fbc38" title=" " alt="" coords="40,201,219,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html#a8bbe7da8b5264efce2e6ec744d44f1d5" title=" " alt="" coords="45,267,214,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a4d026ad6fc3b0870f8fe9567ee4c1058" title=" " alt="" coords="21,332,238,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1_grid_constrainer.html#aaaf9c057dd6425b3eafa60b4b413504c" title=" " alt="" coords="5,398,253,425"/>
+</map>

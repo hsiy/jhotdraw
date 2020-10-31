@@ -1,0 +1,12 @@
+<map id="org.jhotdraw.draw.tool.SelectionTool" name="org.jhotdraw.draw.tool.SelectionTool">
+<area shape="rect" id="node1" title=" " alt="" coords="768,115,999,141"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html" title=" " alt="" coords="493,115,719,141"/>
+<area shape="rect" id="node3" title=" " alt="" coords="239,5,340,32"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1tool_1_1_tool.html" title=" " alt="" coords="201,56,377,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="25,5,132,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="33,107,124,133"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html" title=" " alt="" coords="203,107,376,149"/>
+<area shape="rect" id="node9" title=" " alt="" coords="229,173,350,200"/>
+<area shape="rect" id="node10" title=" " alt="" coords="263,224,315,251"/>
+</map>

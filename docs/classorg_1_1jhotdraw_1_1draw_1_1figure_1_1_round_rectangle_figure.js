@@ -1,0 +1,26 @@
+var classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure =
+[
+    [ "RoundRectangleFigure", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ab09914a65db9f90bd145527a6d4c5ddf", null ],
+    [ "RoundRectangleFigure", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a3a2cbd5f18b1cb60f5e959aadbc59074", null ],
+    [ "clone", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#abd9bdb8679328a529d83958a2ec3f5cc", null ],
+    [ "contains", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ac783b00ec84a78a77c79a75929a4327e", null ],
+    [ "createHandles", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a95671bc59c657d3594eb948b2ee1717e", null ],
+    [ "drawFill", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a47c152929ee2795c71fd74c78f0f5987", null ],
+    [ "drawStroke", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ab9a71b32cd6fecc58fcd7412ff2deee7", null ],
+    [ "findCompatibleConnector", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a673347a8213de5904326dd4446be9b54", null ],
+    [ "findConnector", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ae8a80b4b3a9a4d3c223ab8ec8dcde24e", null ],
+    [ "getArcHeight", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a5258226036c26098329a3dbe0d2426ea", null ],
+    [ "getArcWidth", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#abf4dba13f819a9f5cdcf671b4e540d17", null ],
+    [ "getBounds", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a72bc4cc9dfc26377a0e5de9893056866", null ],
+    [ "getDrawingArea", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#adce789c491f301988df707a1a0ba3eaa", null ],
+    [ "getTransformRestoreData", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a3ccd03bfd01a5b559255309b4de7e6d7", null ],
+    [ "read", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#aa4c69555fc53852fdcb8cb4e5039bc04", null ],
+    [ "restoreTransformTo", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a345ed04dd9e464ce7f255f2e3be4e38c", null ],
+    [ "setArc", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a2068cdb9b7fb6a11577c8d2fdbdf80b4", null ],
+    [ "setArcHeight", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a0503359aa17fd3f036d6dca2b33c3732", null ],
+    [ "setArcWidth", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a265ccc1a9b0a4bb19b320bea90caf34b", null ],
+    [ "setBounds", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a077ca0d347ce7d6f2023bde5b2162843", null ],
+    [ "transform", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#a18defc5982346b600861b628928dc95e", null ],
+    [ "write", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ac837e8598ff3b1a02bd8699bc3ba98f1", null ],
+    [ "roundrect", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ace4e60f0a06a3cf6bf5d737879eef169", null ]
+];

@@ -1,0 +1,9 @@
+<map id="org.jhotdraw.draw.locator.Locator" name="org.jhotdraw.draw.locator.Locator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,103,176,144"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_abstract_locator.html" title=" " alt="" coords="224,37,395,79"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_bezier_label_locator.html" title=" " alt="" coords="224,103,395,144"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_font_size_locator.html" title=" " alt="" coords="224,168,395,209"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_bezier_point_locator.html" title=" " alt="" coords="443,5,613,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_relative_locator.html" title=" " alt="" coords="443,71,613,112"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1locator_1_1_relative_decorator_locator.html" title=" " alt="" coords="661,71,832,112"/>
+</map>

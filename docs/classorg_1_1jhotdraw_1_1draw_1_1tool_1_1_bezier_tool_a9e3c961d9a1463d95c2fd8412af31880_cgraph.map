@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.tool.BezierTool.createFigure" name="org.jhotdraw.draw.tool.BezierTool.createFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,195,136"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#acd3e3969cd304610c0a93686693428a7" title=" " alt="" coords="243,5,444,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#ab39915b0876c766298f3146e0901d2e9" title=" " alt="" coords="262,95,425,136"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a5ef1992b816858e3dbbb8afd643e0826" title=" " alt="" coords="243,160,444,201"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a1851178b6d3a1501b296bdc107774738" title=" " alt="" coords="492,63,664,104"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a6d08d29925222f9e8398569551b400ff" title=" " alt="" coords="497,128,659,169"/>
+</map>

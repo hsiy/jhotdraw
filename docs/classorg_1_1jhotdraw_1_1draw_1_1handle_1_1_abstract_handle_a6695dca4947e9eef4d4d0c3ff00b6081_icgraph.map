@@ -1,0 +1,14 @@
+<map id="org.jhotdraw.draw.handle.AbstractHandle.getDrawingArea" name="org.jhotdraw.draw.handle.AbstractHandle.getDrawingArea">
+<area shape="rect" id="node1" title=" " alt="" coords="541,235,748,276"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_outline_handle.html#a8c27ddb69f1271d9a9941b9f5eb51a1f" title=" " alt="" coords="253,5,493,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a1ab0c197caee01784ff37df03de3ce6d" title=" " alt="" coords="272,71,475,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a3334549db7dfdb5fd98a43faca702d0d" title=" " alt="" coords="258,136,489,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_rotate_handle.html#a58adb14209df8685ba1acc442f7c473c" title=" " alt="" coords="271,201,476,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle.html#aa06717ce696c290e7e01c380d700eea1" title=" " alt="" coords="289,267,458,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle.html#a12bcf80f841e21b2e7c6a14e16627dca" title=" " alt="" coords="289,332,458,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle.html#a0147476b4e68e8d6ea837127e7c7069f" title=" " alt="" coords="289,397,458,439"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a51d58812f7abb794781d98bbbd2a57b5" title=" " alt="" coords="274,463,473,504"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a034d10c87fef77b4836612d110924e24" title=" " alt="" coords="5,397,205,439"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a713c7d442ba29a4ccef39d45c57e0402" title=" " alt="" coords="7,463,204,504"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_orientation_handle.html#a1c4013e80db14d96743e1c66a4a5843f" title=" " alt="" coords="13,528,198,569"/>
+</map>

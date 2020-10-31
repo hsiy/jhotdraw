@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.tool.DelegationSelectionTool.getToolTipText" name="org.jhotdraw.draw.tool.DelegationSelectionTool.getToolTipText">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,219,177"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a91313fbc8e72fe47ea6a708b6b4e2f16" title=" " alt="" coords="281,5,454,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a987d72d1ca1a192b48335a5c19c1585f" title=" " alt="" coords="281,71,454,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle.html#a54cc7c4a3bd8f007a730ac41f59a50b0" title=" " alt="" coords="283,136,452,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a1555bb6f5834a84db96b73cd075fb3c8" title=" " alt="" coords="286,201,449,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#af271849f1343927a71e41a19baf5961c" title=" " alt="" coords="267,267,468,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a562df1a0f63cce45160f5b8f8fef5aa1" title=" " alt="" coords="516,267,717,308"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="765,296,967,337"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="1015,296,1188,337"/>
+</map>

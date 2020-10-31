@@ -1,0 +1,13 @@
+<map id="org.jhotdraw.draw.DrawingView.addFigureSelectionListener" name="org.jhotdraw.draw.DrawingView.addFigureSelectionListener">
+<area shape="rect" id="node1" title=" " alt="" coords="892,173,1103,214"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#af41ff1e652da5c936c0a4f3ae3ec38c5" title=" " alt="" coords="597,5,843,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_repainter.html#a83b210c838f09dd309a986e1fcbd761e" title=" " alt="" coords="596,85,844,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#ab1b12a3a15daf10ea2f8462e20a5e5d7" title=" " alt="" coords="620,165,820,221"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_repainter.html#abace9c79b5881d43f9962ff925b4298c" title=" " alt="" coords="619,245,821,301"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#aa8a6c75244fd98bec4a97322b0570319" title=" " alt="" coords="599,325,841,381"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler_1_1_event_handler.html#aa0655b7a2528e4a2bda91b07164d82da" title=" " alt="" coords="323,245,525,301"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a54ff130304d571fa0434e29d79253eba" title=" " alt="" coords="314,325,534,381"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#aac45837e46feaee1013ef4319689e2bd" title=" " alt="" coords="300,406,548,447"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a2cc75e870ed37f765b6a3687873fbe77" title=" " alt="" coords="27,288,230,344"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a19a95ef814863b639925868426c5443b" title=" " alt="" coords="5,369,252,410"/>
+</map>

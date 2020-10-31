@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.handle.BoundsOutlineHandle.draw" name="org.jhotdraw.draw.handle.BoundsOutlineHandle.draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,184,211"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a5739b49ad6d00205f5aa2a1481530ff4" title=" " alt="" coords="259,5,422,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a37839269c2841adefe993f39a15cb2b3" title=" " alt="" coords="259,71,422,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a47be10ba80d84635cfe97585060f5f68" title=" " alt="" coords="232,136,449,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a79e0fb090c53b4b264aa389dc5026aad" title=" " alt="" coords="256,201,425,243"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a5c8d8bec1f715814cf93f9e015d07994" title=" " alt="" coords="254,267,427,308"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ad8285d2c47049e037de326bceb34bf7b" title=" " alt="" coords="255,332,426,373"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a97befae9b7d2dbc90cfadddb42ce689c" title=" " alt="" coords="497,201,671,243"/>
+</map>

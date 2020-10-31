@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.handle.BezierNodeHandle.trackStart" name="org.jhotdraw.draw.handle.BezierNodeHandle.trackStart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,151,196,193"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a25f17cbf8387a52c2ff7db0b54bd9abc" title=" " alt="" coords="244,5,464,61"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing.html#a9314ac7ad0715d75781e79e26d05adf7" title=" " alt="" coords="257,86,451,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="267,151,441,193"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#ac8f3e88dd6f51b712d99c91600d905a1" title=" " alt="" coords="273,217,435,258"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a4a1dc1fd3abe79f7b8c2a839af4579c1" title=" " alt="" coords="260,282,448,323"/>
+</map>

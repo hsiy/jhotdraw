@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.event.FigureAdapter" name="org.jhotdraw.draw.event.FigureAdapter">
+<area shape="rect" id="node1" title=" " alt="" coords="363,151,524,193"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler_1_1_event_handler.html" title=" " alt="" coords="597,5,796,61"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_drawing_component_repainter.html" title=" " alt="" coords="602,86,791,127"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_repainter.html" title=" " alt="" coords="598,151,795,193"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure_1_1_event_handler.html" title=" " alt="" coords="572,217,821,258"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_quad_tree_composite_figure_1_1_figure_handler.html" title=" " alt="" coords="589,283,805,339"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_listener.html" title=" " alt="" coords="153,151,315,193"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,159,105,185"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1_quad_tree_drawing_1_1_quad_tree_event_handler.html" title=" " alt="" coords="869,217,1073,258"/>
+</map>

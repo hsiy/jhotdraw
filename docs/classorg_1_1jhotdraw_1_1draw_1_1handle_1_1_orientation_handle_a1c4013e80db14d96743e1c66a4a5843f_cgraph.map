@@ -1,0 +1,12 @@
+<map id="org.jhotdraw.draw.handle.OrientationHandle.trackStep" name="org.jhotdraw.draw.handle.OrientationHandle.trackStep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,191,177"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a5a1450f830863d86e732633f6e21ad46" title=" " alt="" coords="257,5,419,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ad8285d2c47049e037de326bceb34bf7b" title=" " alt="" coords="253,71,423,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a9938e307e6857dfbcf77c7720f2f6337" title=" " alt="" coords="257,136,419,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a51d58812f7abb794781d98bbbd2a57b5" title=" " alt="" coords="239,201,437,243"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a3928f0d813749396ba203915290eeb7f" title=" " alt="" coords="257,267,419,308"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ab6be0de14c767eba0e54d4ea937e7923" title=" " alt="" coords="977,204,1188,245"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ac23085b1695e94d09c41888502e9b511" title=" " alt="" coords="485,201,704,243"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a6695dca4947e9eef4d4d0c3ff00b6081" title=" " alt="" coords="491,267,698,308"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a292178142692df5c013963f7c4855319" title=" " alt="" coords="752,233,929,275"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.AttributeKeys.getStroke" name="org.jhotdraw.draw.AttributeKeys.getStroke">
+<area shape="rect" id="node1" title=" " alt="" coords="757,176,933,217"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a36aea4dae62f0b8afa743c353ffbbe24" title=" " alt="" coords="484,37,679,79"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_abstract_line_decoration.html#a646ffda516b902bea87df8fc5bdeb895" title=" " alt="" coords="486,103,677,144"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_composite_figure.html#add57389ead5008f2625a86596dd0d1e9" title=" " alt="" coords="453,169,709,225"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_image_figure.html#a003b608f1034ec9e95a4aa1dce19042b" title=" " alt="" coords="500,249,663,291"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_composite_figure.html#ab623a64de26b0177b2d4bf30b9a3eee0" title=" " alt="" coords="458,315,705,371"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a96310e0848819978e560f99787ed2286" title=" " alt="" coords="230,5,393,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_line_decoration_icon.html#a5526c1e3e5da7315375e7bdf4eb30747" title=" " alt="" coords="217,71,405,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a4c72d911835256cba84b71d6246e6612" title=" " alt="" coords="5,5,169,47"/>
+</map>

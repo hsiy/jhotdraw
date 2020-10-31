@@ -1,0 +1,6 @@
+<map id="org.jhotdraw.draw.tool.BezierTool.activate" name="org.jhotdraw.draw.tool.BezierTool.activate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,195,80"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="243,5,444,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a2dcf9b55b47f1bbf2dafcde60ad3071c" title=" " alt="" coords="257,71,430,112"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="492,5,665,47"/>
+</map>

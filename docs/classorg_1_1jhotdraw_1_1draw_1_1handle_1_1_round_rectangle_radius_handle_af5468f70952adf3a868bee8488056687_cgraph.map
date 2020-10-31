@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.handle.RoundRectangleRadiusHandle.basicGetBounds" name="org.jhotdraw.draw.handle.RoundRectangleRadiusHandle.basicGetBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,237,87"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ac19571fc6e0d1ec451d570dd8eccfd9c" title=" " alt="" coords="285,39,483,80"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a79e0fb090c53b4b264aa389dc5026aad" title=" " alt="" coords="533,5,702,47"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a5c8d8bec1f715814cf93f9e015d07994" title=" " alt="" coords="531,71,704,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a97befae9b7d2dbc90cfadddb42ce689c" title=" " alt="" coords="752,5,925,47"/>
+</map>

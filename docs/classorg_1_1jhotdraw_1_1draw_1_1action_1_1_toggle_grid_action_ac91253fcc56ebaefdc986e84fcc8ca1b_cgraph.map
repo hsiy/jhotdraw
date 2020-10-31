@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.action.ToggleGridAction.actionPerformed" name="org.jhotdraw.draw.action.ToggleGridAction.actionPerformed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_drawing_view_action.html#a7f70dae226d6813d7df3c48b22c50643" title=" " alt="" coords="272,5,504,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a9ffdf489e3933b1c631ca31fa42ae3d7" title=" " alt="" coords="301,71,475,112"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a8debc99d6b63b9f03a19ddd789084efb" title=" " alt="" coords="299,136,477,177"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="552,5,725,47"/>
+</map>

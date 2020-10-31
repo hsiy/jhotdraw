@@ -1,0 +1,15 @@
+<map id="org.jhotdraw.draw.DrawingEditor.getTool" name="org.jhotdraw.draw.DrawingEditor.getTool">
+<area shape="rect" id="node1" title=" " alt="" coords="592,169,765,211"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_abstract_drawing_view.html#ada6014d8fb880ff655b31840db2e4ca8" title=" " alt="" coords="337,5,513,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view.html#a1d5af933cd42c36d034ee5534189f017" title=" " alt="" coords="341,71,508,112"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1_drawing_editor_proxy.html#a050d0fea9a092143647adfeca1a41eb6" title=" " alt="" coords="338,136,511,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1_abstract_drawing_view.html#a0317577a3b8c5ea43c741cf853d40a0b" title=" " alt="" coords="333,201,517,243"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view.html#a6fa851a0000ca25d5484d11f9ca2eda3" title=" " alt="" coords="333,267,517,308"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#ac3d9fb6d635c8bc02ebeccef593bfc39" title=" " alt="" coords="305,333,544,389"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1_abstract_drawing_view.html#a08a48d2c7d6dd1f438b573beb89dd6cd" title=" " alt="" coords="34,5,229,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view.html#a848c8130544f9dbae443fb4b74c8e41b" title=" " alt="" coords="34,71,229,112"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#af41ff1e652da5c936c0a4f3ae3ec38c5" title=" " alt="" coords="8,213,255,269"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#ae5e72ba08c33f108e57083031fcc94ec" title=" " alt="" coords="5,293,257,349"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#ab1b12a3a15daf10ea2f8462e20a5e5d7" title=" " alt="" coords="31,373,231,429"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#a75abd041e1af2107a5b0d395ba91e2e2" title=" " alt="" coords="22,453,241,509"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.jhotdraw.draw.DrawingEditor.getInputMap" name="org.jhotdraw.draw.DrawingEditor.getInputMap">
+<area shape="rect" id="node1" title=" " alt="" coords="255,39,428,80"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_drawing_editor_proxy.html#a8b9f0da9a07ff4d2c8c7a4dbdb0395c6" title=" " alt="" coords="19,5,193,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#afdfc130ab02d1375742fc9417d6c83fc" title=" " alt="" coords="5,71,207,112"/>
+</map>

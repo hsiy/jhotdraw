@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.action.SelectionColorIcon.paintIcon" name="org.jhotdraw.draw.action.SelectionColorIcon.paintIcon">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,192,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_attribute_key.html#a4aaf5a4a491ff5deb10d4d2b99b0c955" title=" " alt="" coords="240,5,416,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="241,71,415,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#aadefe8745ab65e023d7afb532188dac3" title=" " alt="" coords="241,136,415,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#afcfcc993a132556c5b29face1c202d97" title=" " alt="" coords="241,201,415,243"/>
+</map>

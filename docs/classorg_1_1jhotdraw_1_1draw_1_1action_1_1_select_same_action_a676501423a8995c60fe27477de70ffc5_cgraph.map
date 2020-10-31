@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.action.SelectSameAction.selectSame" name="org.jhotdraw.draw.action.SelectSameAction.selectSame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,208,112"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a6708fe57a99375fba094e8836767b1cd" title=" " alt="" coords="283,5,456,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#a5f8782a42cf32d827e3ff7f0f2f457ac" title=" " alt="" coords="256,71,483,112"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#ae0375039239130798cb5f8c2fe30703f" title=" " alt="" coords="531,129,740,171"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="549,64,722,105"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="788,129,961,171"/>
+</map>

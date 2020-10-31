@@ -1,0 +1,27 @@
+var namespaceorg_1_1jhotdraw_1_1draw_1_1handle =
+[
+    [ "AbstractConnectionHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle" ],
+    [ "AbstractHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle" ],
+    [ "AbstractRotateHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_rotate_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_rotate_handle" ],
+    [ "BezierControlPointHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_control_point_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_control_point_handle" ],
+    [ "BezierNodeHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle" ],
+    [ "BezierOutlineHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_outline_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_outline_handle" ],
+    [ "BezierScaleHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_scale_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_scale_handle" ],
+    [ "BoundsOutlineHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bounds_outline_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bounds_outline_handle" ],
+    [ "CloseHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_close_handle" ],
+    [ "ConnectionEndHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_end_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_end_handle" ],
+    [ "ConnectionStartHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_start_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_start_handle" ],
+    [ "ConnectorHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle" ],
+    [ "FontSizeHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_font_size_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_font_size_handle" ],
+    [ "Handle", "interfaceorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle.html", "interfaceorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle" ],
+    [ "HandleAttributeKeys", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle_attribute_keys.html", null ],
+    [ "LocatorHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_locator_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_locator_handle" ],
+    [ "MoveHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_move_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_move_handle" ],
+    [ "NullHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_null_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_null_handle" ],
+    [ "OrientationHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_orientation_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_orientation_handle" ],
+    [ "ResizeHandleKit", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_resize_handle_kit.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_resize_handle_kit" ],
+    [ "RotateHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_rotate_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_rotate_handle" ],
+    [ "RoundRectangleRadiusHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_round_rectangle_radius_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_round_rectangle_radius_handle" ],
+    [ "TextOverflowHandle", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_text_overflow_handle.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_text_overflow_handle" ],
+    [ "TransformHandleKit", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit.html", "classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_transform_handle_kit" ]
+];

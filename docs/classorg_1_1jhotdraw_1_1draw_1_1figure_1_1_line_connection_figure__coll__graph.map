@@ -1,0 +1,15 @@
+<map id="org.jhotdraw.draw.figure.LineConnectionFigure" name="org.jhotdraw.draw.figure.LineConnectionFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="21,601,184,643"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_line_figure.html" title=" " alt="" coords="124,511,287,552"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html" title=" " alt="" coords="124,420,287,461"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html" title=" " alt="" coords="249,316,412,357"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_figure.html" title=" " alt="" coords="260,185,423,227"/>
+<area shape="rect" id="node6" title=" " alt="" coords="408,89,509,115"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html" title=" " alt="" coords="57,81,220,123"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_connection_figure.html" title=" " alt="" coords="5,251,168,292"/>
+<area shape="rect" id="node8" title=" " alt="" coords="46,5,125,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="149,5,238,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="262,89,383,115"/>
+<area shape="rect" id="node11" title=" " alt="" coords="135,193,235,219"/>
+<area shape="rect" id="node12" title=" " alt="" coords="138,323,225,350"/>
+</map>

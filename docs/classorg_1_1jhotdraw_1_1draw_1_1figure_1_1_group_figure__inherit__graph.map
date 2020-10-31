@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.figure.GroupFigure" name="org.jhotdraw.draw.figure.GroupFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="781,71,944,112"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure.html" title=" " alt="" coords="564,71,733,112"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_figure.html" title=" " alt="" coords="353,5,516,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,13,275,39"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html" title=" " alt="" coords="143,67,305,108"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_composite_figure.html" title=" " alt="" coords="353,71,516,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="11,49,89,75"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,99,95,126"/>
+<area shape="rect" id="node9" title=" " alt="" coords="385,137,485,163"/>
+</map>

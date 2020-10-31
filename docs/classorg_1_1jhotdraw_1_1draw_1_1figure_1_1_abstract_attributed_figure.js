@@ -1,0 +1,25 @@
+var classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure =
+[
+    [ "AbstractAttributedFigure", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a090a3c35ba34eed5af70cd30ebc110fc", null ],
+    [ "applyAttributesTo", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a6cf789fa17961afc46622df261cd5a3f", null ],
+    [ "clone", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a25bc40ab7680aef636278b474845fd49", null ],
+    [ "draw", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a36aea4dae62f0b8afa743c353ffbbe24", null ],
+    [ "drawFill", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ac8512523a9ab668a1cf253c24a5a2f9f", null ],
+    [ "drawStroke", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ad6e176e3160969737431cfd8b52bf471", null ],
+    [ "drawText", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ace29040b39d976d43f4bf76f0d40c3e4", null ],
+    [ "getAttributeKey", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a03ebc7791fd49659e8ccda6d49907b7d", null ],
+    [ "getAttributes", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#abd80186cbc9a3773c450872cd9283474", null ],
+    [ "getAttributesRestoreData", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#afb3fd303d6d2bf9fdd0ebd4d064d33e1", null ],
+    [ "getDrawingArea", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#afc6eaa055885b40c71f6ca6a64b862ec", null ],
+    [ "getDrawingArea", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a14f54c4fe319aae32e170e8b312a4c7c", null ],
+    [ "getStrokeMiterLimitFactor", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a4a771e84c6d82db07f718f528da07cf8", null ],
+    [ "hasAttribute", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a20fe065f6929cdecf91e8b71f058532c", null ],
+    [ "isAttributeEnabled", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ae66e1707db8ba667a96b896345b3524c", null ],
+    [ "read", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a46940d46a784789dbb3620bcc863a2c7", null ],
+    [ "readAttributes", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ad4a3a33160b637964da41265a8d2d60c", null ],
+    [ "restoreAttributesTo", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#aae46806dcb3df1add47a0c67f856652c", null ],
+    [ "setAttributeEnabled", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#a5e5b27e97f66c713af01b0bc84c666ca", null ],
+    [ "setAttributes", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#aeb832a3f9e831536700306532da40328", null ],
+    [ "write", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#ab78f0b3f64bb47752919deaec04017c9", null ],
+    [ "writeAttributes", "classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html#aa3b85984b8c70849626118f3317bc8a8", null ]
+];

@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.tool.BezierTool.draw" name="org.jhotdraw.draw.tool.BezierTool.draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,195,177"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae579478195101b0576cb81774fa7b0a0" title=" " alt="" coords="257,5,430,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a07506f31ca6cd0936fb9ad61c98c5b4e" title=" " alt="" coords="253,71,434,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a9c2bb75f13fa34c2f9bd6c5232070bf0" title=" " alt="" coords="256,136,431,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="243,201,444,243"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#af3f3766153f60bc708758e264985e826" title=" " alt="" coords="262,267,425,308"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a2d1f29b3254489a8ddf12a7622ae5ee5" title=" " alt="" coords="497,136,660,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="492,201,665,243"/>
+</map>

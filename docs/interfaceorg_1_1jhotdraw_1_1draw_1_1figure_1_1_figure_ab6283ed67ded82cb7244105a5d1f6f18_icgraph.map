@@ -1,0 +1,24 @@
+<map id="org.jhotdraw.draw.figure.Figure.setBounds" name="org.jhotdraw.draw.figure.Figure.setBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="943,315,1105,357"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_graphical_composite_figure.html#acd5669f21781df8f9642520ace5eb899" title=" " alt="" coords="638,5,886,61"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_image_input_format.html#a5eae6a123b134aca0db421242de1b26e" title=" " alt="" coords="661,86,863,127"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_text_input_format.html#ad9f529268dff47ff8ab36b452d6a8473" title=" " alt="" coords="644,151,880,193"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#aafe52e70fab256b1c51dcb23b635bdba" title=" " alt="" coords="662,217,862,258"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#ae65184f1e69c4688554ecb5037fa792b" title=" " alt="" coords="662,282,862,323"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#a269924d4a3acbec399654cdac67fa5e7" title=" " alt="" coords="662,347,862,389"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_image_input_format.html#a839b0497c2b703d657dd13cb6359c571" title=" " alt="" coords="674,413,850,454"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_text_input_format.html#a85d633b91ee06db15160aa0014740d6f" title=" " alt="" coords="679,478,845,519"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#afcbdeea7cd1b6792e32f0da17e0b4a40" title=" " alt="" coords="640,544,884,600"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#a9bb1d99f58762f2971ae57ce198c1dd7" title=" " alt="" coords="629,624,895,680"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1_graphical_composite_figure.html#a0e5f9ed239bba9a6d52319fa6e1ce6c5" title=" " alt="" coords="351,13,537,54"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_image_input_format.html#abe8c565a0a0bf3444209f90606418170" title=" " alt="" coords="356,86,532,127"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_text_input_format.html#ae7179c9984f9619b995bd2f856defa6f" title=" " alt="" coords="361,151,527,193"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#a19236a0b3c7668d833726a5a556c9762" title=" " alt="" coords="307,529,581,570"/>
+<area shape="rect" id="node20" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#aa86677a776974bc6fe2177408b432578" title=" " alt="" coords="317,624,571,680"/>
+<area shape="rect" id="node22" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#a81bfd8d6b7d3ea09bd449b92810ac0e9" title=" " alt="" coords="322,704,566,760"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_text_figure.html#a2b80bf4689940acf0e45bee0ec318db0" title=" " alt="" coords="47,398,217,439"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_label_figure.html#acfa884eaba76421cbde9ae130b0723e2" title=" " alt="" coords="51,463,213,505"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_text_area_figure.html#aa2fcb6a8bfc50949adcf2b978559ab6f" title=" " alt="" coords="51,529,213,570"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_text_figure.html#a80896530d371a92c0a7d2c8d4593e986" title=" " alt="" coords="51,594,213,635"/>
+<area shape="rect" id="node21" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_decorated_figure.html#a8ad87a6bfde414946ae8d0d042eecdae" title=" " alt="" coords="5,659,259,701"/>
+</map>

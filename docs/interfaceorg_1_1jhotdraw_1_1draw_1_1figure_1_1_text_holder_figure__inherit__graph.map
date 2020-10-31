@@ -1,0 +1,9 @@
+<map id="org.jhotdraw.draw.figure.TextHolderFigure" name="org.jhotdraw.draw.figure.TextHolderFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="99,169,261,211"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_text_area_figure.html" title=" " alt="" coords="5,259,168,300"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_text_figure.html" title=" " alt="" coords="192,259,355,300"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html" title=" " alt="" coords="99,80,261,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,5,166,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="190,5,279,32"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_label_figure.html" title=" " alt="" coords="192,348,355,389"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.tool.DefaultHandleTracker.mouseReleased" name="org.jhotdraw.draw.tool.DefaultHandleTracker.mouseReleased">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,208,99"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="768,24,969,65"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ad2273fed859189ba99d4a621bd7e35bc" title=" " alt="" coords="256,57,471,99"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_handle_multicaster.html#ab492a26f8c057d7d725e02657e6db3a1" title=" " alt="" coords="272,123,455,164"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="1017,24,1191,65"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a95867e56c80d92a5b8169c72fc07d8df" title=" " alt="" coords="519,24,720,65"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html#a5739b49ad6d00205f5aa2a1481530ff4" title=" " alt="" coords="538,89,701,131"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ac7bb405e9bdb855bcbe0ebdee90a6f4e" title=" " alt="" coords="519,155,720,196"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="782,155,955,196"/>
+</map>

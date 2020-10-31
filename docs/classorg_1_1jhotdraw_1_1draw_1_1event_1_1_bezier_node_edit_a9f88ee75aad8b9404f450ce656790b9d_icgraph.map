@@ -1,0 +1,5 @@
+<map id="org.jhotdraw.draw.event.BezierNodeEdit.redo" name="org.jhotdraw.draw.event.BezierNodeEdit.redo">
+<area shape="rect" id="node1" title=" " alt="" coords="280,39,441,80"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_control_point_handle.html#a3a4a75428455a6a226f2fc63f4184b37" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a76929598f091b7147a8c382e67ed7753" title=" " alt="" coords="26,71,211,112"/>
+</map>

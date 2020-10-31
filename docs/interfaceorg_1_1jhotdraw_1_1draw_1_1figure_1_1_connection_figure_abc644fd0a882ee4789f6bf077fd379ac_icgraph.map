@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.figure.ConnectionFigure.getEndPoint" name="org.jhotdraw.draw.figure.ConnectionFigure.getEndPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="275,136,473,177"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html#a8bbe7da8b5264efce2e6ec744d44f1d5" title=" " alt="" coords="31,5,201,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a4d026ad6fc3b0870f8fe9567ee4c1058" title=" " alt="" coords="7,71,225,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#a62276a3d2eb73a8064d80858c0cd6ef5" title=" " alt="" coords="5,136,227,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_end_handle.html#a3fb05b99ee267e8d14d21cd850479fcb" title=" " alt="" coords="5,201,227,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a18058e8732832bb99539481af26d5bde" title=" " alt="" coords="7,267,225,308"/>
+</map>

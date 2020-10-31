@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.figure.Figure.findFigureInside" name="org.jhotdraw.draw.figure.Figure.findFigureInside">
+<area shape="rect" id="node1" title=" " alt="" coords="289,159,452,200"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing.html#a6d700a9c6e1a0e99dd28f7d8c1478db9" title=" " alt="" coords="40,5,207,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure.html#a5b1621f0928c6563492dc9f2892ec8f7" title=" " alt="" coords="9,71,238,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_labeled_line_connection_figure.html#a2d943884ddd9a33e619a7d5a50917662" title=" " alt="" coords="15,151,231,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_quad_tree_composite_figure.html#a1975d6b74b02e8ab4d404f75a494d421" title=" " alt="" coords="5,231,241,287"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1_quad_tree_drawing.html#ab818b3fecd0583725caa8631786f1dd9" title=" " alt="" coords="32,312,215,353"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.connector.AbstractConnector.getConnectorTarget" name="org.jhotdraw.draw.connector.AbstractConnector.getConnectorTarget">
+<area shape="rect" id="node1" title=" " alt="" coords="561,224,808,265"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_bezier_connector.html#a98808b72c27d7927892c9f17d6724fce" title=" " alt="" coords="300,5,488,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_diamond_connector.html#a2e3ef2108efd23aa6a8d94809ffb3946" title=" " alt="" coords="297,71,491,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_ellipse_connector.html#addc43658e6f0ebd1488b2dba3c89b39f" title=" " alt="" coords="300,136,488,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#aa9c97909d876d3f960f201c0a1991f73" title=" " alt="" coords="293,253,495,295"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#a4fc83f59a7c95142fe01a8b861810c9a" title=" " alt="" coords="8,208,224,249"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_rectangle_connector.html#a62276a3d2eb73a8064d80858c0cd6ef5" title=" " alt="" coords="5,287,227,328"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_round_rectangle_connector.html#a79fb4393a7970fcb7dcbcc6a6bf2c08f" title=" " alt="" coords="275,371,513,412"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_triangle_connector.html#a38a2f4e58b969f20d597eada8e52334d" title=" " alt="" coords="300,436,488,477"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.handle.CloseHandle" name="org.jhotdraw.draw.handle.CloseHandle">
+<area shape="rect" id="node1" title=" " alt="" coords="909,112,1079,153"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_locator_handle.html" title=" " alt="" coords="691,112,860,153"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html" title=" " alt="" coords="472,112,641,153"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle.html" title=" " alt="" coords="171,5,340,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="10,13,101,39"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_listener.html" title=" " alt="" coords="175,71,336,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,78,105,105"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html" title=" " alt="" coords="155,137,356,163"/>
+<area shape="rect" id="node9" title=" " alt="" coords="195,187,316,214"/>
+</map>

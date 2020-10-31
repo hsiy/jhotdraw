@@ -1,0 +1,21 @@
+<map id="org.jhotdraw.draw.DrawingView.findFigure" name="org.jhotdraw.draw.DrawingView.findFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="541,282,715,323"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view_transfer_handler.html#a0667c5bfca9bc665cb98d881875e65fe" title=" " alt="" coords="267,5,493,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#a8c58377c1a43c7c8258a872234223493" title=" " alt="" coords="273,86,487,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#aaa31ea9fdca99e430c56687319c33bd0" title=" " alt="" coords="273,151,487,193"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#a69239c5505bc6e71e991d63afded3535" title=" " alt="" coords="273,217,487,258"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a81fe6fb1ccbbd8b61af878c3899cf610" title=" " alt="" coords="296,282,464,323"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a37d82abc3ae03ecdc3efa18547954cc4" title=" " alt="" coords="16,326,208,367"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ac7fd50a77419dbe606acd9a9da7900b0" title=" " alt="" coords="7,391,217,433"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_selection_tool.html#a9249ac57e85096e9f65a551b902582c2" title=" " alt="" coords="277,555,483,597"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a241bb52b56071ceffe98e51f39a374fe" title=" " alt="" coords="279,490,481,531"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#ac075bfe8e1940c956f0d98c51ca40ad5" title=" " alt="" coords="5,130,219,171"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#ad542239b67cd780b8c5b20a43cc5ba4d" title=" " alt="" coords="5,261,219,302"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#a14c47b1439c8373133831b494776d4a8" title=" " alt="" coords="5,195,219,237"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#ac991f899beeb6be15f4f4a1fc98f92f1" title=" " alt="" coords="16,653,208,694"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#a96b97ad117dab5bd5480f1cf223416db" title=" " alt="" coords="16,718,208,759"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a9d1713e1daf2c7f314d6e10917d7c08f" title=" " alt="" coords="28,783,196,825"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_text_area_editing_tool.html#adb291814937b6b1c1077aa771be10f6a" title=" " alt="" coords="10,457,214,498"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#af81fc90193513583fca4a06045ee5cf6" title=" " alt="" coords="16,522,208,563"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a1ff647d389c94678e2bf8c1b7ade81f9" title=" " alt="" coords="27,587,197,629"/>
+</map>

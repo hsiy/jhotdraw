@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.DrawingEditor.applyDefaultAttributesTo" name="org.jhotdraw.draw.DrawingEditor.applyDefaultAttributesTo">
+<area shape="rect" id="node1" title=" " alt="" coords="553,104,755,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_drawing_editor_proxy.html#af28794f5e24c8e59360d351ec3493413" title=" " alt="" coords="271,5,505,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#a9e3c961d9a1463d95c2fd8412af31880" title=" " alt="" coords="293,71,483,112"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a7ce1cfc604fdc3f7cf61ba40780c4f21" title=" " alt="" coords="279,136,497,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#a8c9204ed2d0b3f15d9a1c50c51c1b77f" title=" " alt="" coords="288,201,488,243"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#abff501a85ed95ea453631eeb598d0ced" title=" " alt="" coords="19,71,209,112"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#ad571741b1205fe365fb54fa6ec9cc750" title=" " alt="" coords="5,136,223,177"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#ae65184f1e69c4688554ecb5037fa792b" title=" " alt="" coords="14,201,214,243"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.handle.AbstractHandle.drawCircle" name="org.jhotdraw.draw.handle.AbstractHandle.drawCircle">
+<area shape="rect" id="node1" title=" " alt="" coords="260,201,435,243"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_connection_handle.html#ae6706ae34ce8e1c55c1e5a76e243d1ae" title=" " alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a81d22c10e48d71da384bb6ed06c861d3" title=" " alt="" coords="24,71,193,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_rotate_handle.html#a891815028fd90127e228acd067143fd5" title=" " alt="" coords="19,136,199,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_control_point_handle.html#a2ab9e0ce40c411119217b83fb1e723ff" title=" " alt="" coords="8,201,209,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a61ee18989e31e4b0e022a0b222ca1e39" title=" " alt="" coords="24,267,193,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_scale_handle.html#a9c7b81b5ea9b3c41ff86fee7a231bb56" title=" " alt="" coords="24,332,193,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html#a8bbe7da8b5264efce2e6ec744d44f1d5" title=" " alt="" coords="24,397,193,439"/>
+</map>

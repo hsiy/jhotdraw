@@ -1,0 +1,13 @@
+<map id="org.jhotdraw.draw.DrawingEditor.addPropertyChangeListener" name="org.jhotdraw.draw.DrawingEditor.addPropertyChangeListener">
+<area shape="rect" id="node1" title=" " alt="" coords="587,213,807,254"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_default_attribute_action.html#a93c4dc8df3c6aeaf475283aff1729385" title=" " alt="" coords="323,5,515,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_drawing_component_repainter.html#a7ea94cc8745c4c8652311973eef2ae5b" title=" " alt="" coords="300,85,539,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_displayer.html#ab1b12a3a15daf10ea2f8462e20a5e5d7" title=" " alt="" coords="319,165,519,221"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_selection_component_repainter.html#abace9c79b5881d43f9962ff925b4298c" title=" " alt="" coords="319,245,520,301"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a54ff130304d571fa0434e29d79253eba" title=" " alt="" coords="309,325,529,381"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1_drawing_editor_proxy.html#a7058c01f9ee5a5ab87e8bf21330e208e" title=" " alt="" coords="333,406,506,447"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a2cc75e870ed37f765b6a3687873fbe77" title=" " alt="" coords="27,253,230,309"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_abstract_attribute_editor_handler.html#a19a95ef814863b639925868426c5443b" title=" " alt="" coords="5,334,252,375"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a268637c04019d290edf4057e180562eb" title=" " alt="" coords="28,403,229,445"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a1c347bffd51cd7c66b845def56e9e212" title=" " alt="" coords="28,469,229,510"/>
+</map>

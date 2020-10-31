@@ -1,0 +1,36 @@
+<map id="org.jhotdraw.draw.action.AbstractSelectedAction" name="org.jhotdraw.draw.action.AbstractSelectedAction">
+<area shape="rect" id="node1" title=" " alt="" coords="161,659,328,700"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_align_action.html" title=" " alt="" coords="398,201,565,243"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_apply_attributes_action.html" title=" " alt="" coords="398,332,565,373"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_attribute_action.html" title=" " alt="" coords="398,397,565,439"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_bring_to_front_action.html" title=" " alt="" coords="398,463,565,504"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_default_attribute_action.html" title=" " alt="" coords="398,528,565,569"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_group_action.html" title=" " alt="" coords="398,593,565,635"/>
+<area shape="rect" id="node20" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_increase_handle_detail_level_action.html" title=" " alt="" coords="376,659,587,700"/>
+<area shape="rect" id="node21" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_move_action.html" title=" " alt="" coords="398,724,565,765"/>
+<area shape="rect" id="node26" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_move_constrained_action.html" title=" " alt="" coords="398,789,565,831"/>
+<area shape="rect" id="node31" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_pick_attributes_action.html" title=" " alt="" coords="398,855,565,896"/>
+<area shape="rect" id="node32" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_handler.html" title=" " alt="" coords="382,920,581,961"/>
+<area shape="rect" id="node33" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_select_same_action.html" title=" " alt="" coords="398,985,565,1027"/>
+<area shape="rect" id="node34" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_send_to_back_action.html" title=" " alt="" coords="398,1051,565,1092"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,641,113,667"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,691,103,718"/>
+<area shape="rect" id="node5" title=" " alt="" coords="649,5,816,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="649,71,816,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="649,136,816,177"/>
+<area shape="rect" id="node8" title=" " alt="" coords="649,201,816,243"/>
+<area shape="rect" id="node9" title=" " alt="" coords="649,267,816,308"/>
+<area shape="rect" id="node10" title=" " alt="" coords="649,332,816,373"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_editor_color_chooser_action.html" title=" " alt="" coords="647,397,818,439"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_action.html" title=" " alt="" coords="883,365,1065,407"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_action.html" title=" " alt="" coords="879,431,1069,472"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_ungroup_action.html" title=" " alt="" coords="649,463,816,504"/>
+<area shape="rect" id="node22" title=" " alt="" coords="649,528,816,569"/>
+<area shape="rect" id="node23" title=" " alt="" coords="649,593,816,635"/>
+<area shape="rect" id="node24" title=" " alt="" coords="649,659,816,700"/>
+<area shape="rect" id="node25" title=" " alt="" coords="649,724,816,765"/>
+<area shape="rect" id="node27" title=" " alt="" coords="638,789,827,831"/>
+<area shape="rect" id="node28" title=" " alt="" coords="636,855,829,896"/>
+<area shape="rect" id="node29" title=" " alt="" coords="635,920,831,961"/>
+<area shape="rect" id="node30" title=" " alt="" coords="636,985,829,1027"/>
+</map>

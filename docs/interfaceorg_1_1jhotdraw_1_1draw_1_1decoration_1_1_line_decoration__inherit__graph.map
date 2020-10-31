@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.decoration.LineDecoration" name="org.jhotdraw.draw.decoration.LineDecoration">
+<area shape="rect" id="node1" title=" " alt="" coords="143,104,333,145"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_abstract_line_decoration.html" title=" " alt="" coords="381,71,572,112"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_composite_line_decoration.html" title=" " alt="" coords="381,136,572,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="11,86,89,113"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,137,95,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_arrow_tip.html" title=" " alt="" coords="620,5,811,47"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_general_path_tip.html" title=" " alt="" coords="620,71,811,112"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1decoration_1_1_perpendicular_bar.html" title=" " alt="" coords="620,136,811,177"/>
+</map>

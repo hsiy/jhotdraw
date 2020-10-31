@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.event.SelectionComponentRepainter" name="org.jhotdraw.draw.event.SelectionComponentRepainter">
+<area shape="rect" id="node1" title=" " alt="" coords="572,93,769,135"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_adapter.html" title=" " alt="" coords="363,5,524,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_listener.html" title=" " alt="" coords="153,5,315,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,13,105,39"/>
+<area shape="rect" id="node5" title=" " alt="" coords="363,71,524,98"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_selection_listener.html" title=" " alt="" coords="363,123,524,164"/>
+<area shape="rect" id="node7" title=" " alt="" coords="157,130,311,157"/>
+<area shape="rect" id="node8" title=" " alt="" coords="400,189,487,215"/>
+</map>

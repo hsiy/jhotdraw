@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.handle.AbstractConnectionHandle" name="org.jhotdraw.draw.handle.AbstractConnectionHandle">
+<area shape="rect" id="node1" title=" " alt="" coords="588,39,764,80"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_end_handle.html" title=" " alt="" coords="812,5,981,47"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connection_start_handle.html" title=" " alt="" coords="812,71,981,112"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html" title=" " alt="" coords="371,39,540,80"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1handle_1_1_handle.html" title=" " alt="" coords="153,5,323,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="10,13,101,39"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1event_1_1_figure_listener.html" title=" " alt="" coords="157,71,319,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,78,105,105"/>
+</map>

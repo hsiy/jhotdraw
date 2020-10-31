@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.event.FigureEvent.getFigure" name="org.jhotdraw.draw.event.FigureEvent.getFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="337,166,499,207"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_quad_tree_composite_figure_1_1_figure_handler.html#a6d91aaa08064cb85864c8332e9e4373a" title=" " alt="" coords="39,5,255,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1_quad_tree_drawing_1_1_quad_tree_event_handler.html#aa6afb2fdf6554759cd3cfe35086c997a" title=" " alt="" coords="28,85,267,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_label_figure.html#ac0421b00b40e51edd5758624047fd7d3" title=" " alt="" coords="59,166,236,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure_1_1_event_handler.html#a35580aed5786943c68f47719b744ee89" title=" " alt="" coords="5,232,289,288"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_quad_tree_composite_figure_1_1_figure_handler.html#a26e783e74451d38bc6b5a6e09769fbbf" title=" " alt="" coords="39,312,255,368"/>
+</map>

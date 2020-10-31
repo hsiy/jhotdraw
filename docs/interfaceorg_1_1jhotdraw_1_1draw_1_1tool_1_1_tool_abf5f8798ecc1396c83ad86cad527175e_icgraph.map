@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.tool.Tool.removeToolListener" name="org.jhotdraw.draw.tool.Tool.removeToolListener">
+<area shape="rect" id="node1" title=" " alt="" coords="783,39,1004,80"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_editor.html#a3fd7a4548b84052d1b921967419acf35" title=" " alt="" coords="548,5,715,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_selection_tool.html#a2a6753ccfc8ec92e12fb963fd6e67603" title=" " alt="" coords="528,71,735,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#aaa31ea9fdca99e430c56687319c33bd0" title=" " alt="" coords="267,37,480,79"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_selection_tool.html#a9249ac57e85096e9f65a551b902582c2" title=" " alt="" coords="270,103,477,144"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#ac075bfe8e1940c956f0d98c51ca40ad5" title=" " alt="" coords="5,37,219,79"/>
+</map>

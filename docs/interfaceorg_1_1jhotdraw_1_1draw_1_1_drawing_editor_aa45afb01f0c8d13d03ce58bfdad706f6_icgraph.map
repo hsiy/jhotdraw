@@ -1,0 +1,15 @@
+<map id="org.jhotdraw.draw.DrawingEditor.findView" name="org.jhotdraw.draw.DrawingEditor.findView">
+<area shape="rect" id="node1" title=" " alt="" coords="263,365,436,407"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1_drawing_editor_proxy.html#a00a33f260c503b9434ddce47f95cfd15" title=" " alt="" coords="23,5,197,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#afdfc130ab02d1375742fc9417d6c83fc" title=" " alt="" coords="9,71,211,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#ac991f899beeb6be15f4f4a1fc98f92f1" title=" " alt="" coords="14,136,206,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a18e348ad7cb31ef6d92e0702691d8f2c" title=" " alt="" coords="14,201,206,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ab91abde5e8dd65a743d7bdd06346e726" title=" " alt="" coords="5,267,215,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#a96b97ad117dab5bd5480f1cf223416db" title=" " alt="" coords="14,332,206,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a37d82abc3ae03ecdc3efa18547954cc4" title=" " alt="" coords="14,397,206,439"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ac7fd50a77419dbe606acd9a9da7900b0" title=" " alt="" coords="5,463,215,504"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a9d1713e1daf2c7f314d6e10917d7c08f" title=" " alt="" coords="26,528,194,569"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a63f669f0a102b3e73c96aa56a2d9930f" title=" " alt="" coords="9,593,211,635"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#af81fc90193513583fca4a06045ee5cf6" title=" " alt="" coords="14,659,206,700"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a1ff647d389c94678e2bf8c1b7ade81f9" title=" " alt="" coords="25,724,195,765"/>
+</map>

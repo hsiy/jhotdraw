@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.tool.DelegationSelectionTool.handleMultiClick" name="org.jhotdraw.draw.tool.DelegationSelectionTool.handleMultiClick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,219,145"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a987d72d1ca1a192b48335a5c19c1585f" title=" " alt="" coords="281,5,454,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#aa190b2fd351e2500a11386df29fd841c" title=" " alt="" coords="280,71,455,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="267,136,468,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a1484060439df54351e2546d3ed250542" title=" " alt="" coords="280,201,455,243"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="516,136,689,177"/>
+</map>

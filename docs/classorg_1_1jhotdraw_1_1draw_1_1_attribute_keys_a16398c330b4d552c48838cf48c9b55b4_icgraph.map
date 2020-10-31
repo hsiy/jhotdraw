@@ -1,0 +1,27 @@
+<map id="org.jhotdraw.draw.AttributeKeys.getPerpendicularDrawGrowth" name="org.jhotdraw.draw.AttributeKeys.getPerpendicularDrawGrowth">
+<area shape="rect" id="node1" title=" " alt="" coords="808,235,1031,276"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a4c72d911835256cba84b71d6246e6612" title=" " alt="" coords="567,5,731,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_diamond_figure.html#ac6243c9b18aed685875025bb04990dd6" title=" " alt="" coords="559,71,738,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_ellipse_figure.html#a197feb2b96e8aaa0fe8a32fa0b66d255" title=" " alt="" coords="565,136,732,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_image_figure.html#adf071e91ba8cc0305e7a88b801353904" title=" " alt="" coords="567,201,730,243"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_rectangle_figure.html#ac9a55949bf7a4b1add651ea432efd5c5" title=" " alt="" coords="556,267,741,308"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ab9a71b32cd6fecc58fcd7412ff2deee7" title=" " alt="" coords="537,332,760,373"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_triangle_figure.html#aaa27b14c8c2a920def0d0be17c731c92" title=" " alt="" coords="563,397,735,439"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1_attribute_keys.html#ae2d6c959d313bee1fac5ce5e690019e4" title=" " alt="" coords="543,544,754,585"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_image_figure.html#a003b608f1034ec9e95a4aa1dce19042b" title=" " alt="" coords="284,119,447,160"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#afc54e12c5a10ad66b161df50ccf9989a" title=" " alt="" coords="284,184,447,225"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_triangle_figure.html#adce607e911b552d526c5a4c3ecbc7be3" title=" " alt="" coords="284,249,447,291"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#aca511424822ec32341a270564366c795" title=" " alt="" coords="284,315,447,356"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_ellipse_figure.html#a46ca30cce3c54080c06f3652cf89f8d0" title=" " alt="" coords="284,380,447,421"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_rectangle_figure.html#a1608b76136bdf2bab0fa484aa54c079f" title=" " alt="" coords="281,445,450,487"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#ac783b00ec84a78a77c79a75929a4327e" title=" " alt="" coords="262,511,469,552"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_triangle_figure.html#aa22aefb1c8b49362dfeed7893bc0443e" title=" " alt="" coords="284,576,447,617"/>
+<area shape="rect" id="node20" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_image_figure.html#a0ea8604a3e8839055879ab6047cc3308" title=" " alt="" coords="276,641,455,683"/>
+<area shape="rect" id="node21" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_diamond_figure.html#ae91ea6794f312ba185fcb4b134765160" title=" " alt="" coords="263,707,467,748"/>
+<area shape="rect" id="node22" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_ellipse_figure.html#ad24e03cd440bde02c13d47146753a409" title=" " alt="" coords="269,772,461,813"/>
+<area shape="rect" id="node23" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_rectangle_figure.html#a32f5812f859eafbb95508998ab75cba7" title=" " alt="" coords="260,837,471,879"/>
+<area shape="rect" id="node24" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_round_rectangle_figure.html#adce789c491f301988df707a1a0ba3eaa" title=" " alt="" coords="241,903,489,944"/>
+<area shape="rect" id="node25" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_image_figure.html#a208c7254e1e587f9d1d247ab38d66b87" title=" " alt="" coords="253,968,477,1009"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_bezier_connector.html#a98808b72c27d7927892c9f17d6724fce" title=" " alt="" coords="5,184,193,225"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1connector_1_1_chop_triangle_connector.html#a38a2f4e58b969f20d597eada8e52334d" title=" " alt="" coords="5,249,193,291"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.jhotdraw.draw.figure.TriangleFigure" name="org.jhotdraw.draw.figure.TriangleFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="208,367,371,408"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_attributed_figure.html" title=" " alt="" coords="208,276,371,317"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_figure.html" title=" " alt="" coords="131,185,293,227"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,89,107,115"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html" title=" " alt="" coords="131,81,293,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="118,5,197,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="221,5,310,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="318,89,439,115"/>
+<area shape="rect" id="node9" title=" " alt="" coords="318,193,418,219"/>
+</map>

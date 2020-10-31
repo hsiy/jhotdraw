@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.layouter.Layouter.layout" name="org.jhotdraw.draw.layouter.Layouter.layout">
+<area shape="rect" id="node1" title=" " alt="" coords="903,86,1080,127"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure.html#ae618a5e8c706e9949622443141985007" title=" " alt="" coords="635,17,843,58"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_labeled_line_connection_figure.html#a89d6cee1496d08653a3b1e88b4ec2021" title=" " alt="" coords="624,86,855,127"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1_graphical_composite_figure.html#a0e5f9ed239bba9a6d52319fa6e1ce6c5" title=" " alt="" coords="646,151,833,193"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure.html#aca198f7eca4a1f7d4967600926237e61" title=" " alt="" coords="349,13,565,54"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure_1_1_event_handler.html#adcac96a998d6c55530c1600a8bbfc464" title=" " alt="" coords="5,5,289,61"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_labeled_line_connection_figure.html#ab21a1769482705bbaa293547300690aa" title=" " alt="" coords="339,79,574,135"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_labeled_line_connection_figure.html#a284992122be234dfc340bb242b115af7" title=" " alt="" coords="337,159,576,201"/>
+</map>

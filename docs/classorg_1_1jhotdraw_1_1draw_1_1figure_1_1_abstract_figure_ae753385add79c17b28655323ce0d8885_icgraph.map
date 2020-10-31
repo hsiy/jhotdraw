@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.figure.AbstractFigure.fireUndoableEditHappened" name="org.jhotdraw.draw.figure.AbstractFigure.fireUndoableEditHappened">
+<area shape="rect" id="node1" title=" " alt="" coords="359,129,564,185"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_bezier_figure.html#a81cbeba43f4b5cef2d062144118c7f20" title=" " alt="" coords="55,5,261,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_line_figure.html#a24816c70a129cb375e4a3c8cac33af56" title=" " alt="" coords="62,71,254,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_figure.html#ad5733e85ab0e85f712c6a60d6c1bf357" title=" " alt="" coords="71,136,245,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_abstract_composite_figure_1_1_event_handler.html#a8654efa8f92a3ba3e23ab83ef313523a" title=" " alt="" coords="5,202,311,258"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_quad_tree_composite_figure_1_1_figure_handler.html#af7fc7507218549fc7405189956cf8afc" title=" " alt="" coords="50,282,266,338"/>
+</map>

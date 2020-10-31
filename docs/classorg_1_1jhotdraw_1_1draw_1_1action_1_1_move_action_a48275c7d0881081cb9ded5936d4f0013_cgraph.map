@@ -1,0 +1,9 @@
+<map id="org.jhotdraw.draw.action.MoveAction.actionPerformed" name="org.jhotdraw.draw.action.MoveAction.actionPerformed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,192,141"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#aa47f905a72386c817f0ac69676da22fa" title=" " alt="" coords="240,59,475,115"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#ae0375039239130798cb5f8c2fe30703f" title=" " alt="" coords="797,132,1007,173"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing.html#a9314ac7ad0715d75781e79e26d05adf7" title=" " alt="" coords="539,5,733,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#a5f8782a42cf32d827e3ff7f0f2f457ac" title=" " alt="" coords="523,71,749,112"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae1c1ffdb3cb4a45d07e30caff130aafb" title=" " alt="" coords="815,67,989,108"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="1055,132,1228,173"/>
+</map>

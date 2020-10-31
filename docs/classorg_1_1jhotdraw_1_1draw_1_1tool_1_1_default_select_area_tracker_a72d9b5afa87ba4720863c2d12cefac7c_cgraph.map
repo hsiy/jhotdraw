@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.tool.DefaultSelectAreaTracker.mouseDragged" name="org.jhotdraw.draw.tool.DefaultSelectAreaTracker.mouseDragged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,225,80"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a6bda1e36943b325f3a352526066e0dd2" title=" " alt="" coords="273,39,475,80"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae579478195101b0576cb81774fa7b0a0" title=" " alt="" coords="537,5,710,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="523,71,724,112"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="772,71,945,112"/>
+</map>

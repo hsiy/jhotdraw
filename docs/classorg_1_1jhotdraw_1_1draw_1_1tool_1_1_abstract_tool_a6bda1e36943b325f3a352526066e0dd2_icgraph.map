@@ -1,0 +1,24 @@
+<map id="org.jhotdraw.draw.tool.AbstractTool.fireAreaInvalidated" name="org.jhotdraw.draw.tool.AbstractTool.fireAreaInvalidated">
+<area shape="rect" id="node1" title=" " alt="" coords="849,267,1051,308"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#ad01fa32b0b17f6a59797ef1898270009" title=" " alt="" coords="581,5,771,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#a72d9b5afa87ba4720863c2d12cefac7c" title=" " alt="" coords="566,71,786,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#a9ac21809b9bb52d35518bbb6338045a0" title=" " alt="" coords="581,136,771,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#abff501a85ed95ea453631eeb598d0ced" title=" " alt="" coords="581,201,771,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#ad571741b1205fe365fb54fa6ec9cc750" title=" " alt="" coords="567,267,785,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a09551fe2bc63f6eab8734eee57fa427f" title=" " alt="" coords="567,332,785,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#afa2c5b71f0df0a84ee1f7b2b9e11a86c" title=" " alt="" coords="581,397,771,439"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#acc5ceeff51689d5cdd6021e5121856d1" title=" " alt="" coords="563,463,789,504"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#a9eb0ee6547baef07eca373dea0bc755b" title=" " alt="" coords="551,593,801,635"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#ae26ca5d299bb86d3fd13a86595165ea5" title=" " alt="" coords="275,336,491,377"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a37d82abc3ae03ecdc3efa18547954cc4" title=" " alt="" coords="14,433,206,475"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a18e348ad7cb31ef6d92e0702691d8f2c" title=" " alt="" coords="287,492,479,533"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#abdc36d57aa2b817581d104b5e6a2ec25" title=" " alt="" coords="14,172,206,213"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#af626df8b5ec3970bc5f5a8e5f22fe6c6" title=" " alt="" coords="14,237,206,279"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#af9a8783783e4703a6eb6a97669cad7de" title=" " alt="" coords="12,303,208,344"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a823ca83ce25b8ba1a3b67b1b83492ffe" title=" " alt="" coords="12,368,208,409"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#af3729a92e75fcf2ab51beb20bd98a7d0" title=" " alt="" coords="263,564,503,605"/>
+<area shape="rect" id="node21" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ac7fd50a77419dbe606acd9a9da7900b0" title=" " alt="" coords="5,629,215,671"/>
+<area shape="rect" id="node22" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ab91abde5e8dd65a743d7bdd06346e726" title=" " alt="" coords="278,681,487,723"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#a311773c440641d79c1e02922cf4bf2be" title=" " alt="" coords="14,499,206,540"/>
+<area shape="rect" id="node20" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#a82ec602fdce1ac22c5c4f978f297f32b" title=" " alt="" coords="14,564,206,605"/>
+</map>

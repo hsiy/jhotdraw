@@ -1,0 +1,17 @@
+<map id="org.jhotdraw.draw.figure.Figure.set" name="org.jhotdraw.draw.figure.Figure.set">
+<area shape="rect" id="node1" title=" " alt="" coords="576,348,739,389"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_attribute_action.html#a0b0bff44ed1f6821e35540c7cd2e4bbe" title=" " alt="" coords="276,5,528,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_editor.html#a270a5556ac1e85d85df54c7ec270229a" title=" " alt="" coords="279,71,525,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_handler.html#a4a4a66184fa2a0c5cf8411b290fc1eaf" title=" " alt="" coords="289,137,515,193"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#a7ce1cfc604fdc3f7cf61ba40780c4f21" title=" " alt="" coords="293,217,511,259"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#a8c9204ed2d0b3f15d9a1c50c51c1b77f" title=" " alt="" coords="302,283,502,324"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1io_1_1_serialization_input_output_format.html#afa69ec1c903e3a2f1f925e9a39f48b2d" title=" " alt="" coords="296,348,508,389"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_attribute_change_edit.html#ab4f95a6e55066e193df1d01d0789485d" title=" " alt="" coords="319,413,485,455"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1_attribute_key.html#ad83d81c853b303208cceb25beafe03c6" title=" " alt="" coords="301,479,503,520"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1_attribute_key.html#abc4c05572829c922cb43692091bb3c87" title=" " alt="" coords="291,544,513,585"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_orientation_handle.html#a1c4013e80db14d96743e1c66a4a5843f" title=" " alt="" coords="309,609,495,651"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1event_1_1_attribute_change_edit.html#a53131df33b6570fa7ed8102dfe48a7a7" title=" " alt="" coords="317,675,487,716"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_drawing_color_chooser_handler.html#a31d50c0c5e638c5657410cd0b6d7dea6" title=" " alt="" coords="5,137,228,193"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#ad571741b1205fe365fb54fa6ec9cc750" title=" " alt="" coords="8,217,225,259"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#ae65184f1e69c4688554ecb5037fa792b" title=" " alt="" coords="17,283,217,324"/>
+</map>

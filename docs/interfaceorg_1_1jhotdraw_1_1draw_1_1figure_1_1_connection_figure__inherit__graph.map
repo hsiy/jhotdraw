@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.figure.ConnectionFigure" name="org.jhotdraw.draw.figure.ConnectionFigure">
+<area shape="rect" id="node1" title=" " alt="" coords="20,169,183,211"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_line_connection_figure.html" title=" " alt="" coords="20,259,183,300"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1figure_1_1_figure.html" title=" " alt="" coords="20,80,183,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="9,5,87,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="111,5,201,32"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1figure_1_1_labeled_line_connection_figure.html" title=" " alt="" coords="5,348,197,389"/>
+</map>

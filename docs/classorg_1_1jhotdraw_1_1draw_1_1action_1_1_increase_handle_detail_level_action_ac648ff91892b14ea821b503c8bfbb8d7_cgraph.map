@@ -1,0 +1,8 @@
+<map id="org.jhotdraw.draw.action.IncreaseHandleDetailLevelAction.actionPerformed" name="org.jhotdraw.draw.action.IncreaseHandleDetailLevelAction.actionPerformed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,255,119"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_increase_handle_detail_level_action.html#a67b48f5030f637d981c61d2eae790570" title=" " alt="" coords="303,63,565,119"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#aa190b2fd351e2500a11386df29fd841c" title=" " alt="" coords="631,5,805,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_abstract_selected_action.html#ae0375039239130798cb5f8c2fe30703f" title=" " alt="" coords="613,71,823,112"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a1484060439df54351e2546d3ed250542" title=" " alt="" coords="631,136,805,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="871,71,1044,112"/>
+</map>

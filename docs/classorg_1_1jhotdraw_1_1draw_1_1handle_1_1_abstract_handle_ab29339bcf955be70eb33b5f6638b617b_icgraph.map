@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.handle.AbstractHandle.drawDiamond" name="org.jhotdraw.draw.handle.AbstractHandle.drawDiamond">
+<area shape="rect" id="node1" title=" " alt="" coords="281,104,475,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_bezier_node_handle.html#a61ee18989e31e4b0e022a0b222ca1e39" title=" " alt="" coords="35,5,204,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_font_size_handle.html#a2fc92bd975afbbef76cab56baf376391" title=" " alt="" coords="35,71,204,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_orientation_handle.html#a0790cf0974bbd08a111813c949c582eb" title=" " alt="" coords="35,136,204,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_round_rectangle_radius_handle.html#ad2e1bc8ae4c68ad60507bf9b297a3152" title=" " alt="" coords="5,201,233,243"/>
+</map>

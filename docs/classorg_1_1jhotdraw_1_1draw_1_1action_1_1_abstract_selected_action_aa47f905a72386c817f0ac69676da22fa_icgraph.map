@@ -1,0 +1,13 @@
+<map id="org.jhotdraw.draw.action.AbstractSelectedAction.fireUndoableEditHappened" name="org.jhotdraw.draw.action.AbstractSelectedAction.fireUndoableEditHappened">
+<area shape="rect" id="node1" title=" " alt="" coords="604,259,839,315"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_align_action.html#afd6457d5821624735381488d1a8250a5" title=" " alt="" coords="335,5,521,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_bring_to_front_action.html#a1953eae770d66e769a9cc1d7aad47d08" title=" " alt="" coords="313,71,543,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_group_action.html#a87d7051f142a3086f8b8f78aaf1e4ede" title=" " alt="" coords="332,136,524,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_move_action.html#a48275c7d0881081cb9ded5936d4f0013" title=" " alt="" coords="335,201,521,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_move_constrained_action.html#ad3c29abe3bbbc473c99cfb1a9d3e4d16" title=" " alt="" coords="300,267,556,308"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_send_to_back_action.html#adf094a24f8f7214ca16916963dff7e0f" title=" " alt="" coords="313,332,543,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_default_attribute_action.html#ae173bbe0d762641c7790b80d589c74c8" title=" " alt="" coords="5,420,252,461"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_handler.html#a9c41035cd8ac7835232ba949e4c5bc72" title=" " alt="" coords="311,515,545,571"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_default_attribute_action.html#a6fb33c3eedcf07bc36eda5ddea0437c3" title=" " alt="" coords="307,449,549,491"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_selection_color_chooser_handler.html#a652b0a22047045583465661afe304458" title=" " alt="" coords="13,515,244,571"/>
+</map>

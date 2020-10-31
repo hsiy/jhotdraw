@@ -1,0 +1,10 @@
+<map id="org.jhotdraw.draw.handle.ConnectorHandle.basicGetBounds" name="org.jhotdraw.draw.handle.ConnectorHandle.basicGetBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,227,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#ac19571fc6e0d1ec451d570dd8eccfd9c" title=" " alt="" coords="275,71,472,112"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html#a0d0253a12831a53a7855731ae236c508" title=" " alt="" coords="277,136,469,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_abstract_handle.html#a79e0fb090c53b4b264aa389dc5026aad" title=" " alt="" coords="529,5,699,47"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a5c8d8bec1f715814cf93f9e015d07994" title=" " alt="" coords="527,71,701,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a97befae9b7d2dbc90cfadddb42ce689c" title=" " alt="" coords="756,5,929,47"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#ae579478195101b0576cb81774fa7b0a0" title=" " alt="" coords="527,136,701,177"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1connector_1_1_connector.html#ab4d74ea7db8e53692cc4274907f81f67" title=" " alt="" coords="520,201,708,243"/>
+</map>

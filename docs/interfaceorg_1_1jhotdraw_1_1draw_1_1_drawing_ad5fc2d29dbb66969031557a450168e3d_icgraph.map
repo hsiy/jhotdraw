@@ -1,0 +1,13 @@
+<map id="org.jhotdraw.draw.Drawing.findFigureBehind" name="org.jhotdraw.draw.Drawing.findFigureBehind">
+<area shape="rect" id="node1" title=" " alt="" coords="517,160,715,201"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_handle_tracker.html#a37d82abc3ae03ecdc3efa18547954cc4" title=" " alt="" coords="14,5,206,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_select_area_tracker.html#ac7fd50a77419dbe606acd9a9da7900b0" title=" " alt="" coords="5,71,215,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_selection_tool.html#a9249ac57e85096e9f65a551b902582c2" title=" " alt="" coords="263,255,469,296"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#a241bb52b56071ceffe98e51f39a374fe" title=" " alt="" coords="265,189,467,231"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#ac991f899beeb6be15f4f4a1fc98f92f1" title=" " alt="" coords="14,136,206,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#a96b97ad117dab5bd5480f1cf223416db" title=" " alt="" coords="14,201,206,243"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a9d1713e1daf2c7f314d6e10917d7c08f" title=" " alt="" coords="26,267,194,308"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_text_area_editing_tool.html#adb291814937b6b1c1077aa771be10f6a" title=" " alt="" coords="8,332,212,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#af81fc90193513583fca4a06045ee5cf6" title=" " alt="" coords="14,397,206,439"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a1ff647d389c94678e2bf8c1b7ade81f9" title=" " alt="" coords="25,463,195,504"/>
+</map>

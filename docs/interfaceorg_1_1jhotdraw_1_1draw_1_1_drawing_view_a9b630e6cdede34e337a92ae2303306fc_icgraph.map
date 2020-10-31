@@ -1,0 +1,25 @@
+<map id="org.jhotdraw.draw.DrawingView.clearSelection" name="org.jhotdraw.draw.DrawingView.clearSelection">
+<area shape="rect" id="node1" title=" " alt="" coords="808,485,981,527"/>
+<area shape="rect" id="node2" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_text_area_creation_tool.html#aecb2481384e1fb7a57f15b98911c5241" title=" " alt="" coords="522,8,742,49"/>
+<area shape="rect" id="node3" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view_transfer_handler.html#afb0aa366b9a66cb00650a70aa4aca10b" title=" " alt="" coords="504,73,760,115"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#aae609a08c572ca808b0e45ec179aac47" title=" " alt="" coords="537,139,727,180"/>
+<area shape="rect" id="node8" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#abff501a85ed95ea453631eeb598d0ced" title=" " alt="" coords="5,201,195,243"/>
+<area shape="rect" id="node10" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_group_action.html#afce20561e99ae4bd01c21566017dd94b" title=" " alt="" coords="545,321,719,363"/>
+<area shape="rect" id="node12" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#aaa31ea9fdca99e430c56687319c33bd0" title=" " alt="" coords="525,256,739,297"/>
+<area shape="rect" id="node14" href="$classorg_1_1jhotdraw_1_1draw_1_1_default_drawing_view_transfer_handler.html#ac0b664f084c5416d8f24f88ba2479028" title=" " alt="" coords="505,387,759,428"/>
+<area shape="rect" id="node15" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#a81fe6fb1ccbbd8b61af878c3899cf610" title=" " alt="" coords="548,452,716,493"/>
+<area shape="rect" id="node16" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_text_creation_tool.html#ad14af35c16b539956d2a61d3d33b3ee4" title=" " alt="" coords="539,517,725,559"/>
+<area shape="rect" id="node17" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_connection_tool.html#ad571741b1205fe365fb54fa6ec9cc750" title=" " alt="" coords="523,583,741,624"/>
+<area shape="rect" id="node18" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_creation_tool.html#ae65184f1e69c4688554ecb5037fa792b" title=" " alt="" coords="532,648,732,689"/>
+<area shape="rect" id="node19" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_default_drag_tracker.html#a7cff4bbc4ec38e1bbed2f0b9ea29da4d" title=" " alt="" coords="536,713,728,755"/>
+<area shape="rect" id="node20" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_dn_d_tracker.html#ad4a8f516ea5dd7d4d99d5522d19218a3" title=" " alt="" coords="548,779,716,820"/>
+<area shape="rect" id="node21" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_selection_tool.html#a9249ac57e85096e9f65a551b902582c2" title=" " alt="" coords="529,844,735,885"/>
+<area shape="rect" id="node22" href="$classorg_1_1jhotdraw_1_1draw_1_1handle_1_1_connector_handle.html#a51d1837eb9cc4934ac0ead172d899dd7" title=" " alt="" coords="543,909,721,951"/>
+<area shape="rect" id="node23" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_group_action.html#a5031dd0536e31d4fb68259faccd72daf" title=" " alt="" coords="539,975,725,1016"/>
+<area shape="rect" id="node5" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#a05494d8c789b9c7375c0029c078da06c" title=" " alt="" coords="255,136,444,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#ad01fa32b0b17f6a59797ef1898270009" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" id="node7" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#a7e9c8eeb65dafdc963ca35f0b155f3fb" title=" " alt="" coords="5,136,195,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_bezier_tool.html#afa2c5b71f0df0a84ee1f7b2b9e11a86c" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node11" href="$classorg_1_1jhotdraw_1_1draw_1_1action_1_1_group_action.html#a87d7051f142a3086f8b8f78aaf1e4ede" title=" " alt="" coords="253,648,445,689"/>
+<area shape="rect" id="node13" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_delegation_selection_tool.html#ac075bfe8e1940c956f0d98c51ca40ad5" title=" " alt="" coords="243,256,456,297"/>
+</map>

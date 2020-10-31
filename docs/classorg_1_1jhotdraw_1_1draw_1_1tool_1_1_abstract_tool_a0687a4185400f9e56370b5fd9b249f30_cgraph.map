@@ -1,0 +1,7 @@
+<map id="org.jhotdraw.draw.tool.AbstractTool.constrainPoint" name="org.jhotdraw.draw.tool.AbstractTool.constrainPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,207,112"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_constrainer.html#ae3d4bb3a9da538b7f39a92009b14c30e" title=" " alt="" coords="255,5,505,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_view.html#a64795b970c69bc6464f199c0645db2bf" title=" " alt="" coords="293,71,467,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1jhotdraw_1_1draw_1_1tool_1_1_abstract_tool.html#ae456836537848cc33aca3511746309a0" title=" " alt="" coords="279,136,481,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1jhotdraw_1_1draw_1_1_drawing_editor.html#a8c075580d865f5bb2abafa10c43b4555" title=" " alt="" coords="553,136,727,177"/>
+</map>
